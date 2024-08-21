@@ -9,7 +9,7 @@
 </p>
                   👀 Professional Summary
 
-**rajsinghritik/rajsinghritik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate web development enthusiast graduated from AKTU University in Computer Science & Engineering. Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
 
 Here are some ideas to get you started:
 
