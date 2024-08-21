@@ -21,6 +21,6 @@ Let's connect 💬
    <br>
    Email: rajsinghritik@gmail.com
    <br>
-   LinkedIn : linkedin.com/in/ritikraj8
+   LinkedIn : linkedin.com/in/ritikraj8/
 ## Website Link :
    url : https://github.com/rajsinghritik/profile/
