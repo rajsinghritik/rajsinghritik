@@ -16,3 +16,11 @@ Passionate web development enthusiast graduated from AKTU University in Computer
 
 Let's connect 💬
 
+## Author :
+   Ritik Raj
+   <br>
+   Email: rajsinghritik@gmail.com
+   <br>
+   LinkedIn : linkedin.com/in/ritikraj8
+## Website Link :
+   url : https://github.com/rajsinghritik/profile/
