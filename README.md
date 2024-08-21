@@ -11,7 +11,8 @@
 
 Passionate web development enthusiast graduated from AKTU University in Computer Science & Engineering. Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
 
-https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270
+[image](https://github.com/user-attachments/assets/eea4b261-8329-4747-b0df-93368b681e95)
+
 
 Here are some ideas to get you started:
 
