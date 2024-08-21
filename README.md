@@ -52,6 +52,8 @@ LinkedIn : https://www.linkedin.com/in/ritikraj8/    <br>
 ![image](https://github.com/user-attachments/assets/ceaffb21-cf7e-47bd-90ea-24c7bf0c801a)
 ![image](https://github.com/user-attachments/assets/dca87537-c528-4934-aa79-3588e8e5c700)
 
+<br>
+##🧑‍🏫 All Projects
 
 
 
