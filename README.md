@@ -1,5 +1,13 @@
 ## Hi, I’m Ritik Raj (@rajsinghritik) 👋
 
+<p align="center">
+  
+  <br>
+  <a style="" href="https://github.com/rajsinghritik">
+  <img src="https://profile-counter.glitch.me/profile/count.svg" />
+  </a>
+</p>
+
 
 **rajsinghritik/rajsinghritik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
