@@ -32,4 +32,9 @@ LinkedIn : https://www.linkedin.com/in/ritikraj8/    <br>
 ![image](https://github.com/user-attachments/assets/2bdc7deb-6e0c-4903-9e37-e7e006f3a082)
 ![image](https://github.com/user-attachments/assets/1513ab48-bc82-4508-ac9f-767eb4887bac)
 
+##👨‍💻 Languages and Tools <br>
+
+Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge Badge
+
+
 
